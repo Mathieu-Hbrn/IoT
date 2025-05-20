@@ -27,7 +27,7 @@
   BDD ->> Modele: pas de résultat
   Modele ->> API : réponse négative
   API->>User : erreur<br>status 401 Unauthorized
-  end```
+  end
 
 ## Node-RED
 
