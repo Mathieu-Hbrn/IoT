@@ -59,6 +59,9 @@
 
 - Dashboard
 
+  ![{ACF34D60-99C7-4778-8729-3644C2A0DCDB}](https://github.com/user-attachments/assets/5da97db5-c14c-40d4-8d13-0ae033e74f1a)
+
+
   ![{765A2469-62E7-4D11-8631-E363A70D41A1}](https://github.com/user-attachments/assets/5be879c3-bbf3-4ed6-a012-f6206f0ce854)
 
   
