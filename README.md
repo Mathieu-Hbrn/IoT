@@ -28,7 +28,7 @@
   Modele ->> API : réponse négative
   API->>User : erreur<br>status 401 Unauthorized
   end
-
+```
 ## Node-RED
 
 ![{1CAE59E4-E52B-41EF-B7A7-27D4DB28B2AC}](https://github.com/user-attachments/assets/b9ae6915-d191-48aa-b914-d5f8b3afba9f)
